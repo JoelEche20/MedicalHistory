@@ -1,0 +1,13 @@
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\bin\Debug\netcoreapp3.1\MedicalHistory.exe
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\bin\Debug\netcoreapp3.1\MedicalHistory.deps.json
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\bin\Debug\netcoreapp3.1\MedicalHistory.runtimeconfig.json
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\bin\Debug\netcoreapp3.1\MedicalHistory.runtimeconfig.dev.json
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\bin\Debug\netcoreapp3.1\MedicalHistory.dll
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\bin\Debug\netcoreapp3.1\MedicalHistory.pdb
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\obj\Debug\netcoreapp3.1\MedicalHistory.csprojAssemblyReference.cache
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\obj\Debug\netcoreapp3.1\MedicalHistory.AssemblyInfoInputs.cache
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\obj\Debug\netcoreapp3.1\MedicalHistory.AssemblyInfo.cs
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\obj\Debug\netcoreapp3.1\MedicalHistory.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\obj\Debug\netcoreapp3.1\MedicalHistory.dll
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\obj\Debug\netcoreapp3.1\MedicalHistory.pdb
+C:\Users\Joel\Desktop\ArquiSoft\Hospital\Hospital\obj\Debug\netcoreapp3.1\MedicalHistory.genruntimeconfig.cache
